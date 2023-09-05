@@ -9,4 +9,4 @@ Projeto extra da Trilha do CSS, ministrado pelo Felipe Aguiar da plataforma DIO,
 >- Tornei o projeto responsivo.
 
 ## Link GitHubPages:
->-
+>- https://marcoswinther.github.io/project-html-css-js-learning-animals-in-english/
